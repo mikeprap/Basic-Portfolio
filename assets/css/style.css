@@ -24,6 +24,7 @@ header{
     width: 100%;
     border-bottom: solid darkgray 1px;
     height: 70px;
+    margin-bottom: 20px;
 
     
 }
@@ -56,5 +57,13 @@ footer{
     height: 70px;
     border-top: solid darkgrey 1px;
     padding-top: 20px;
+    margin-top: 20px;
     
+}
+.pics{
+    float: left;
+    padding: 10px;
+
+
+
 }
