@@ -24,7 +24,7 @@ header{
     width: 100%;
     border-bottom: solid darkgray 1px;
     height: 70px;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
 
     
 }
@@ -56,7 +56,7 @@ footer{
     text-align: center;
     height: 70px;
     border-top: solid #4aaaa5 5px;
-    margin-top: 255px;
+    margin-top: 215px;
     color: white;
     
 }
