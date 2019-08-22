@@ -63,7 +63,33 @@ footer{
 .pics{
     float: left;
     padding: 10px 10px;
+    
+}
+#pic1{
+    float: left;
+    
+}
 
+#pic2{
+    
+    
+}
 
+#pic3{
+    float: left;
+}
 
+#pic4{
+    float: left;
+}
+
+#pic5{
+    
+}
+h3{
+    color: white;
+    background-color: #4aaaa5;
+    height: 100px;
+    width: 200px;
+    
 }
