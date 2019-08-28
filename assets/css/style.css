@@ -84,9 +84,7 @@ footer{
     float: left;
 }
 
-#pic5{
-    
-}
+
 h3{
     color: white;
     background-color: #4aaaa5;
@@ -99,6 +97,72 @@ h3{
 }
 h2{
     color: #4aaaa5;
+}
+@media screen and (max-width: 988px) {
+    
+    
+    section{
+        width: 100%;
+        margin: 0 auto;
+        background-color: white;
+        padding: 20px;
+        overflow: auto; }
+        
+    .headerContainer{
+        width: 100%;
+    }    
+
+    
+    
+
+
+}
+@media screen and (max-width: 768px) {
+    
+    
+    section{
+        width: 80%;
+        margin: 0 auto;
+        background-color: white;
+        padding: 20px;
+        overflow: auto; }
+    .headerContainer{
+        width:80%;
+    }
+
+    
+    
+
+
+}
+@media screen and (max-width: 640px) {
+    
+    
+    section{
+        width: 80%;
+        margin: 0 auto;
+        background-color: white;
+        padding: 20px;
+        overflow: auto; }
+    .headerContainer{
+        width: 100%;
+        text-align: center;
+    }
+    nav{
+        float: none;
+    }
+    h1{
+        float: none;
+    }
+    .container{
+        width: 80%;
+    }
+    
+
+    
+    
+
+
 }
 
 
